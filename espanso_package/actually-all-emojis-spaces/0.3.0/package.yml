@@ -2789,7 +2789,7 @@ matches:
   trigger: ':baggage claim:'
 - replace: "\U0001F6C5"
   trigger: ':left luggage:'
-- replace: "\u26A0"
+- replace: "⚠️"
   trigger: ':warning:'
 - replace: "\U0001F6B8"
   trigger: ':children crossing:'
