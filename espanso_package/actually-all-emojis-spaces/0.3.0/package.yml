@@ -3085,7 +3085,7 @@ matches:
   trigger: ':cool:'
 - replace: "\U0001F193"
   trigger: ':free:'
-- replace: "\u2139"
+- replace: "ℹ️"
   trigger: ':information:'
 - replace: "\U0001F194"
   trigger: ':id:'
